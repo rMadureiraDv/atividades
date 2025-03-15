@@ -1,2 +1,3 @@
-# atividades
-algumas atividades git do curso
+# ATIVIDADES
+
+### SÃO ALGUMAS ATIVIDADES FEITAS USANDO O CODESPACE
