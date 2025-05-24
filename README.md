@@ -1,3 +1,3 @@
 # ATIVIDADES
 
-### SÃO ALGUMAS ATIVIDADES FEITAS USANDO O CODESPACE
+### Basicamente, atividade da SA4-4
