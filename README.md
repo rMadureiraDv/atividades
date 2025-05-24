@@ -1,3 +1,3 @@
 # ATIVIDADES
 
-### Basicamente, atividade da SA4-4
+### Basicamente, atividade da SA4-2
